@@ -3,5 +3,6 @@ from . import views
 
 urlpatterns = [
     path('model',views.make_model),
-    path('',views.sensor_data),
+    path('result',views.result_data),
+    path('save', views.save_data)
 ]
