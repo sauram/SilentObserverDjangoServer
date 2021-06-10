@@ -15,3 +15,5 @@ Basically need to clone the repository and install the dependencies and run the 
 To make the Port (whichever you are using for server) open to Internet, local tunnel can be used.
 
 Command : lt --port XXXX (XXXX is port, 8000 default for Django)
+
+NOTE: Several files were deleted for security concern. Few changes were made to locally running source code for experimentation purpose only which hasn't been included.
